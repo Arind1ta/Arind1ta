@@ -7,6 +7,7 @@
 - Git & GitHub
 
 ### 💻 Projects:
+- Java_Quiz_App
 - 🔗 [Digital Visiting Card](https://github.com/Arind1ta/digital-visiting-card)
 - 🔗 [Portfolio Website (Coming Soon)]
 
